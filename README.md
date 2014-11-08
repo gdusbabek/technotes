@@ -1,4 +1,3 @@
-technotes
-=========
+# Online Notebook
 
-Notes I make as I explore projects.
+I put things here as I read about them.
